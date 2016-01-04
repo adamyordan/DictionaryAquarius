@@ -1,0 +1,13 @@
+.translation-header {
+  color: grey;
+  font-style: italic;
+}
+
+.translation-content {
+  font-weight: bold;
+}
+
+.with-background {
+  background: url('../img/bg.jpg') no-repeat center;
+  background-size: cover;
+}
